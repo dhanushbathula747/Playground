@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
+int main() // Main function
 {
   int t,y;
   cin >> t;
